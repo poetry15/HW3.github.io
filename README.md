@@ -4,11 +4,11 @@
 
 **目標網址**：[https://www.instagram.com/accounts/login/](https://www.instagram.com/accounts/login/)
 
-                           目標畫面
+**目標畫面**
 
 ![Untitled](Readme/Untitled.png)
 
-                            完成畫面
+**完成畫面**
 
 ![Untitled](Readme/Untitled%201.png)
 
@@ -51,15 +51,15 @@
     
 - IG的logo
     - 因為原始圖並不是只有我們要的這個白底黑字的logo，所以需要創一個div讓原始圖變成背景照片
-    - 這邊不能直接<img src>
+    - 這邊不能直接"img src"
         
         
     
-    成品圖
+    **成品圖**
     
     ![Untitled](Readme/Untitled%203.png)
     
-                                  原始圖
+   **原始圖**
     
     ![logo.png](Readme/logo.png)
     
